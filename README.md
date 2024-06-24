@@ -6,10 +6,13 @@ The dataset includes four time series samples of anonymized data: initial serolo
 
 Data description:
 
-HTLVTESTAGEMGERALSEXOF.csv - contains the daily records of serological (ELISA test) results for females.
-HTLVTESTAGEMGERALSEXOM.csv - contains the daily records of serological (ELISA test) results for males.
-HTLVWBREAGENTESSEXOF.csv - contains the daily records of Western Blotting (WB) confirmatory testing results for females.
-HTLVWBREAGENTESSEXOM.csv - contains the daily records of Western Blotting (WB) confirmatory testing results for males.
+HTLVTESTAGEMGERALSEXOF.csv - *contains the daily records of serological (ELISA test) results for females*.
+
+HTLVTESTAGEMGERALSEXOM.csv - *contains the daily records of serological (ELISA test) results for males*.
+
+HTLVWBREAGENTESSEXOF.csv - *contains the daily records of Western Blotting (WB) confirmatory testing results for females*.
+
+HTLVWBREAGENTESSEXOM.csv - *contains the daily records of Western Blotting (WB) confirmatory testing results for males*.
 
 
 Column description:
