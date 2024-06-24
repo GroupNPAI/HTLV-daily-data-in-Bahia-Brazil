@@ -17,10 +17,5 @@ Column description:
 DATA - day of testing result
 QTDE - number of positive results per day
 
-Datasets:
-[HTLVTESTAGEMGERALSEXOF.csv](https://github.com/user-attachments/files/15954448/HTLVTESTAGEMGERALSEXOF.csv)
-[HTLVWBREAGENTESSEXOM.csv](https://github.com/user-attachments/files/15954457/HTLVWBREAGENTESSEXOM.csv)
-[HTLVWBREAGENTESSEXOF.csv](https://github.com/user-attachments/files/15954454/HTLVWBREAGENTESSEXOF.csv)
-[HTLVTESTAGEMGERALSEXOM.csv](https://github.com/user-attachments/files/15954485/HTLVTESTAGEMGERALSEXOM.csv)
 
 
