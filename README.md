@@ -14,7 +14,7 @@ HTLVWBREAGENTESSEXOM.csv - contains the daily records of Western Blotting (WB) c
 
 Column description:
 
-DATA* - *day of testing result*.
+DATA - *day of testing result*.
 
 QTDE - *number of positive results per day*.
 
